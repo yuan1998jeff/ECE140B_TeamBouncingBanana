@@ -1,0 +1,520 @@
+CourseName,Major,Requirement,Depth,CourseDescription,OfferingQuarter,Tags,Lab Based
+ECE 164,ECE ,depth,circuit ,"Design of linear and nonlinear analog integrated circuits including operational amplifiers, voltage regulators, drivers, power stages, oscillators, and multipliers. Use of feedback and evaluation of noise performance. Parasitic effects of integrated circuit technology. Laboratory simulation and testing of circuits. Prerequisites: ECE 102 with a grade of C– or better. ECE 163 recommended.",fa,,y
+ECE 165,ECE ,depth,circuit ,"VLSI digital systems. Circuit characterization, performance estimation, and optimization. Circuits for alternative logic styles and clocking schemes. Subsystems include ALUs, memory, processor arrays, and PLAs. Techniques for gate arrays, standard cell, and custom design. Design and simulation using CAD tools. Prerequisites: ECE 102.",sp,,y
+ECE 166,ECE ,depth,circuit ,"Waves, distributed circuits, and scattering matrix methods. Passive microwave elements. Impedance matching. Detection and frequency conversion using microwave diodes. Design of transistor amplifiers including noise performance. Circuits designs will be simulated by computer and tested in the laboratory. (Course materials and/or program fees may apply.) Prerequisites: ECE 102 and 107 with grades of C– or better.",fa,,y
+ECE 111,ECE ,design,circuit ,"Advanced topics in digital circuits and systems. Use of computers and design automation tools. Hazard elimination, synchronous/asynchronous FSM synthesis, synchronization and arbitration, pipelining and timing issues. Problem sets and design exercises. A large-scale design project. Simulation and/or rapid prototyping. Prerequisites: ECE 25 or CSE 140.",all,,y
+ECE 115,ECE ,design,circuit ,"Lab-based course. Students will learn how to prototype a mechatronic solution. Topics include cheap/accessible materials and parts; suppliers; fast prototyping techniques; useful electronic sketches and system integration shortcuts. Students will learn to materialize their electromechanical ideas and make design decisions to minimize cost, improve functionality/robustness. Labs will culminate toward a fully functional robot prototype for demonstration. Prerequisites: ECE 16 or consent of instructor.",tbd,,
+ECE 190,ECE ,design,circuit ,"Students complete a project comprising at least 50 percent or more engineering design to satisfy the following features: student creativity, open-ended formulation of a problem statement/specifications, consideration of alternative solutions/realistic constraints. Written final report required. Prerequisites: students enrolling in this course must have completed all of the breadth courses and one depth course. The department stamp is required to enroll in ECE 190. (Specifications and enrollment forms are available in the undergraduate office.)",all,,
+ECE 140B,ECE ,design,circuit ,"Building on a solid foundation of electrical and computer engineer skills, this course strives to broaden student skills in software, full-stack engineering, and concrete understanding of methods related to the realistic development of a commercial product. Students will research, design, and develop an IOT device to serve an emerging market. Prerequisites: ECE 140A.",sp,,
+ECE 191,ECE ,design,circuit ,"Groups of students work to design, build, demonstrate, and document an engineering project. All students give weekly progress reports of their tasks and contribute a section to the final project report. Prerequisites: completion of all of the breadth courses and one depth course.",all,,
+ECE 120,ECE ,elective,circuit ,"General introduction to planetary bodies, the overall structure of the solar system, and space plasma physics. Course emphasis will be on the solar atmosphere, how the solar wind is produced, and its interaction with both magnetized and unmagnetized planets (and comets). Prerequisites: PHYS 2A–C or 4A–D, MATH 20A–B, 20C with grades of C– or better.",tbd,,
+ECE 121A,ECE ,elective,circuit ,"This course introduces concepts of large-scale power system analysis: electric power generation, distribution, steady-state analysis and economic operation. It provides the fundamentals for advanced courses and engineering practice on electric power systems, smart grid, and electricity economics. The course requires implementing some of the computational techniques in simulation software. Prerequisites: ECE 35.",fa,,
+ECE 125A,ECE ,elective,circuit ,"Power generation, system, and electronics. Topics include power semiconductor devices and characteristics, single-phase and three-phase half and full controlled AC-to-DC rectifiers, nonisolated/isolated DC-DC converters, power loss calculation, and thermal considerations, Snubber circuits. Prerequisites: ECE 121A.",win,,
+ECE 125B,ECE ,elective,circuit ,"Design and control of DC-DC converters, PWM rectifiers, single-phase and three-phase inverters, power management, and power electronics applications in renewable energy systems, motion control, and lighting. Prerequisites: ECE 125A.",sp,,
+PHYS 120,PHYS ,elective,circuit ,"Circuits and Electronics (5)Laboratory and lecture course that covers principles of analog circuit theory and design, linear systems theory, and practical aspects of circuit realization, debugging, and characterization. Laboratory exercises include passive circuits, active filters and amplifiers with discrete and monolithic devices, nonlinear circuits, interfaces to sensors and actuators, and the digitization of analog signals. PHYS 120 was formerly numbered PHYS 120A. Program or materials fees may apply. Prerequisites: PHYS 2A-B-C or 4A-B-C, and 2CL. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33, and PY34 only. Recommended preparation: PHYS 100A.",win,,
+NANO 107,NANO,elective,circuit ,"Electronic Devices and Circuits for Nanoengineers (4) Overview of electrical devices and CMOS integrated circuits emphasizing fabrication processes, and scaling behavior. Design, and simulation of submicron CMOS circuits including amplifiers active filters digital logic, and memory circuits. Limitations of current technologies and possible impact of nanoelectronic technologies. Prerequisites: NANO 15, NANO 101, MATH 20B or MATH 20D, and PHYS 2B.",win,,
+NANO 159,NANO,elective,circuit ,"Electrochemistry: Fundamentals and Applications (4)Introduce fundamentals of electrochemical processes and electrode reactions to the principles of electrochemical techniques, instrumental requirements, and their diverse real-life applications in the energy, environmental, and diagnostics areas. Prerequisites: CHEM 6A or 6AH, CHEM 6B or 6BH, CHEM 6C or 6CH, CHEM 7L or 7LM.",sp,,
+ECE 128A,ECE ,elective,circuit ,"Real World Power Grid Operation (4)Provides practical insights into the operation of the power grid. Covers the same subjects that actual power system operators’ certification course covers. It systematically describes the vital grid operators’ functions and the processes required to operate the system. Uses actual case histories, and real examples of best in-class approaches from across the nation and the globe. Presents the problems encountered by operators and the enabling solutions to remedy them. Prerequisites: upper-division standing.",fa,,
+ECE 128B,ECE ,elective,circuit ,"Power Grid Modernization (4)In-depth coverage of the future power grids. Covers the practical aspects of the technologies, their design and system implementation. Topics include the changing nature of the grid with renewable resources, smart meters, synchrophasors (PMU), microgrids, distributed energy resources, and the associated information and communications infrastructures. Presents actual examples and best practices. Students will be provided with various tools. Prerequisites: ECE 35 and ECE 128A.",win,,
+ECE 128C,ECE ,elective,circuit ,"Power Grid Resiliency to Adverse Effects (4)This course offers unique insight and practical answers through examples, of how power systems can be affected by weather and what/how countermeasures can be applied to mitigate them to make the system more resilient. Detailed explanations of the impacts of extreme weather and applicable industry standards and initiatives. Proven practices for successful restoration of the power grid, increased system resiliency, and ride-through after extreme weather providing real examples from around the globe. Prerequisites: ECE 128B.",sp,,
+ECE 100,ECE ,breadth,circuit ,"Linear Electronic Systems (4)Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",fa&spr,,
+ECE 101,ECE ,breadth,circuit ,"Linear Systems Fundamentals (4)Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.",all,,
+ECE 102,ECE ,breadth,circuit ,"Introduction to Active Circuit Design (4)Nonlinear active circuits design. Nonlinear device models for diodes, bipolar and field-effect transistors. Linearization of device models and small-signal equivalent circuits. Circuit designs will be simulated by computer and tested in the laboratory. Prerequisites: ECE 65 and ECE 100. ECE 100 can be taken concurrently.",fa&win,,
+ECE 103,ECE ,breadth,circuit ,"Fundamentals of Devices and Materials (4)Introduction to semiconductor materials and devices. Semiconductor crystal structure, energy bands, doping, carrier statistics, drift and diffusion, p-n junctions, metal-semiconductor junctions. Bipolar junction transistors: current flow, amplification, switching, nonideal behavior. Metal-oxide-semiconductor structures, MOSFETs, device scaling. Prerequisites: ECE 65 and PHYS 2D or PHYS 4D and 4E.",all,,
+ECE 107,ECE ,breadth,circuit ,"Electromagnetism (4)Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A–C or 4A–C and ECE 45.",all,,
+ECE 109,ECE ,breadth,circuit ,"Engineering Probability and Statistics (4)Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, MATH 180A–B, MATH 183, MATH 186, ECON 120A, or ECON 120AH will not receive credit for ECE 109. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18. Students who completed MAE 108, MATH 180A-B, MATH 183, MATH 186, or ECON 120A will not receive credit for ECE 109.",all,,
+ECE 100,ECE ,breadth,materials,"Linear Electronic Systems (4)Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",fa&sp,,
+ECE 101,ECE ,breadth,materials,"Linear Systems Fundamentals (4)Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.",all,,
+ECE 102,ECE ,breadth,materials,"Introduction to Active Circuit Design (4)Nonlinear active circuits design. Nonlinear device models for diodes, bipolar and field-effect transistors. Linearization of device models and small-signal equivalent circuits. Circuit designs will be simulated by computer and tested in the laboratory. Prerequisites: ECE 65 and ECE 100. ECE 100 can be taken concurrently.",fa&win,,
+ECE 103,ECE ,breadth,materials,"Fundamentals of Devices and Materials (4)Introduction to semiconductor materials and devices. Semiconductor crystal structure, energy bands, doping, carrier statistics, drift and diffusion, p-n junctions, metal-semiconductor junctions. Bipolar junction transistors: current flow, amplification, switching, nonideal behavior. Metal-oxide-semiconductor structures, MOSFETs, device scaling. Prerequisites: ECE 65 and PHYS 2D or PHYS 4D and 4E.",all,,
+ECE 107,ECE ,breadth,materials,"Electromagnetism (4)Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A–C or 4A–C and ECE 45.",all,,
+ECE 109,ECE ,breadth,materials,"Engineering Probability and Statistics (4)Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, MATH 180A–B, MATH 183, MATH 186, ECON 120A, or ECON 120AH will not receive credit for ECE 109. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18. Students who completed MAE 108, MATH 180A-B, MATH 183, MATH 186, or ECON 120A will not receive credit for ECE 109.",all,,
+ECE 135A,ECE ,depth,materials,"Semiconductor Physics (4)Crystal structure and quantum theory of solids; electronic band structure; review of carrier statistics, drift and diffusion, p-n junctions; nonequilibrium carriers, imrefs, traps, recombination, etc; metal-semiconductor junctions and heterojunctions. Prerequisites: ECE 103 with a grade of C– or better.",fa,,
+ECE 135B,ECE ,depth,materials,"Electronic Devices (4)Structure and operation of bipolar junction transistors, junction field-effect transistors, metal-oxide-semiconductor diodes and transistors. Analysis of dc and ac characteristics. Charge control model of dynamic behavior. Prerequisites: ECE 135A with a grade of C– or better.",win,,
+ECE 136L,ECE ,depth,materials,"Microelectronics Laboratory (4)Laboratory fabrication of diodes and field-effect transistors covering photolithography, oxidation, diffusion, thin film deposition, etching and evaluation of devices. (Course materials and/or program fees may apply.) Prerequisites: ECE 135B.",sp,,
+ECE 183,ECE ,depth,materials,"Optical Electronics (4)Quantum electronics, interaction of light and matter in atomic systems, semiconductors. Laser amplifiers and laser systems. Photodetection. Electro-optics and acousto-optics, photonic switching. Fiber optic communication systems. Labs: semiconductor lasers, semiconductor photodetectors. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and 107 with grades of C– or better.",win,,
+ECE 111,ECE ,design,materials,"Advanced Digital Design Project (4)Advanced topics in digital circuits and systems. Use of computers and design automation tools. Hazard elimination, synchronous/asynchronous FSM synthesis, synchronization and arbitration, pipelining and timing issues. Problem sets and design exercises. A large-scale design project. Simulation and/or rapid prototyping. Prerequisites: ECE 25 or CSE 140.",all,,
+ECE 115,ECE ,design,materials,"Fast Prototyping (4)Lab-based course. Students will learn how to prototype a mechatronic solution. Topics include cheap/accessible materials and parts; suppliers; fast prototyping techniques; useful electronic sketches and system integration shortcuts. Students will learn to materialize their electromechanical ideas and make design decisions to minimize cost, improve functionality/robustness. Labs will culminate toward a fully functional robot prototype for demonstration. Prerequisites: ECE 16 or consent of instructor.",tbd,,
+ECE 190,ECE ,design,materials,"Engineering Design (4)Students complete a project comprising at least 50 percent or more engineering design to satisfy the following features: student creativity, open-ended formulation of a problem statement/specifications, consideration of alternative solutions/realistic constraints. Written final report required. Prerequisites: students enrolling in this course must have completed all of the breadth courses and one depth course. The department stamp is required to enroll in ECE 190. (Specifications and enrollment forms are available in the undergraduate office.)",tbd,,
+ECE 140B,ECE ,design,materials,"The Art of Product Engineering II (4)Building on a solid foundation of electrical and computer engineer skills, this course strives to broaden student skills in software, full-stack engineering, and concrete understanding of methods related to the realistic development of a commercial product. Students will research, design, and develop an IOT device to serve an emerging market. Prerequisites: ECE 140A.",sp,,
+ECE 191,ECE ,design,materials,"Engineering Group Design Project (4)Groups of students work to design, build, demonstrate, and document an engineering project. All students give weekly progress reports of their tasks and contribute a section to the final project report. Prerequisites: completion of all of the breadth courses and one depth course.",all,,
+ECE 134,ECE ,elective,materials,"Electronic Materials Science of Integrated Circuits (4)Electronic materials science with emphasis on topics pertinent to microelectronics and VLSI technology. Concept of the course is to use components in integrated circuits to discuss structure, thermodynamics, reaction kinetics, and electrical properties of materials. Prerequisites: PHYS 2C–D with grades of C– or better.",win,,
+ECE 156,ECE ,elective,materials,"Characteristics of chemical, biological, seismic, and other physical sensors; signal processing techniques supporting distributed detection of salient events; wireless communication and networking protocols supporting formation of robust sensor fabrics; current experience with low power, low cost sensor deployments. Undergraduate students must take a final exam; graduate students must write a term paper or complete a final project. Cross-listed with MAE 149 and SIO 238. Prerequisites: upper-division standing and consent of instructor, or graduate student in science and engineering",tbd,,
+ECE163,ECE ,elective,materials,"Electronic Circuits and Systems (4)Analysis and design of analog circuits and systems. Feedback systems with applications to operational amplifier circuits. Stability, sensitivity, bandwidth, compensation. Design of active filters. Switched capacitor circuits. Phase-locked loops. Analog-to-digital and digital-to-analog conversion. (Course materials and/or program fees may apply.) Prerequisites: ECE 101 and 102 with grades of C– or better.",sp,,
+ECE 164,ECE ,elective,materials,"Analog Integrated Circuit Design (4)Design of linear and nonlinear analog integrated circuits including operational amplifiers, voltage regulators, drivers, power stages, oscillators, and multipliers. Use of feedback and evaluation of noise performance. Parasitic effects of integrated circuit technology. Laboratory simulation and testing of circuits. Prerequisites: ECE 102 with a grade of C– or better. ECE 163 recommended.",fall,,
+ECE 165,ECE ,elective,materials,"Digital Integrated Circuit Design (4)VLSI digital systems. Circuit characterization, performance estimation, and optimization. Circuits for alternative logic styles and clocking schemes. Subsystems include ALUs, memory, processor arrays, and PLAs. Techniques for gate arrays, standard cell, and custom design. Design and simulation using CAD tools. Prerequisites: ECE 102.",sp,,
+NANO 107,NANO,elective,materials,"Electronic Devices and Circuits for Nanoengineers (4) Overview of electrical devices and CMOS integrated circuits emphasizing fabrication processes, and scaling behavior. Design, and simulation of submicron CMOS circuits including amplifiers active filters digital logic, and memory circuits. Limitations of current technologies and possible impact of nanoelectronic technologies. Prerequisites: NANO 15, NANO 101, MATH 20B or MATH 20D, and PHYS 2B.",win,,
+NANO 104,NANO,elective,materials,"Foundations in NanoEngineering: Physical Principles (4)Introduction to quantum mechanics and nanoelectronics. Wave mechanics, the Schrödinger equation, free and confined electrons, band theory of solids. Nanosolids in 0D, 1D, and 2D. Application to nanoelectronic devices. Priority enrollment given to NanoEngineering majors Prerequisites: MATH 20D, NANO 101. Department approval required.",win,,
+NANO 159,NANO,elective,materials,"Electrochemistry: Fundamentals and Applications (4)Introduce fundamentals of electrochemical processes and electrode reactions to the principles of electrochemical techniques, instrumental requirements, and their diverse real-life applications in the energy, environmental, and diagnostics areas. Prerequisites: CHEM 6A or 6AH, CHEM 6B or 6BH, CHEM 6C or 6CH, CHEM 7L or 7LM.",sp,,
+NANO 168,NANO,elective,materials,"Electrical, Dielectric, and Magnetic Properties of Engineering Materials (4)Introduction to physical principles of electrical, dielectric, and magnetic properties. Semiconductors, control of defects, thin film, and nanocrystal growth, electronic and optoelectronic devices. Processing-microstructure-property relations of dielectric materials, including piezoelectric, pyroelectric and ferroelectric, and magnetic materials. Prerequisites: NANO 102 and NANO 104.",win,,
+NANO 164,NANO,elective,materials,"Advanced Micro- and Nano-materials for Energy Storage and Conversion (4)Materials for energy storage and conversion in existing and future power systems, including fuel cells and batteries, photovoltaic cells, thermoelectric cells, and hybrids. Prerequisites: NANO 101, NANO 102, NANO 148.",fa,,
+ECE 100,ECE ,breadth,computersystem,"Linear Electronic Systems (4)Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",fa&sp,,
+ECE 101,ECE ,breadth,computersystem,"Linear Systems Fundamentals (4)Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.",all,,
+ECE 102,ECE ,breadth,computersystem,"Introduction to Active Circuit Design (4)Nonlinear active circuits design. Nonlinear device models for diodes, bipolar and field-effect transistors. Linearization of device models and small-signal equivalent circuits. Circuit designs will be simulated by computer and tested in the laboratory. Prerequisites: ECE 65 and ECE 100. ECE 100 can be taken concurrently.",fa&win,,
+ECE 103,ECE ,breadth,computersystem,"Fundamentals of Devices and Materials (4)Introduction to semiconductor materials and devices. Semiconductor crystal structure, energy bands, doping, carrier statistics, drift and diffusion, p-n junctions, metal-semiconductor junctions. Bipolar junction transistors: current flow, amplification, switching, nonideal behavior. Metal-oxide-semiconductor structures, MOSFETs, device scaling. Prerequisites: ECE 65 and PHYS 2D or PHYS 4D and 4E.",all,,
+ECE 107,ECE ,breadth,computersystem,"Electromagnetism (4)Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A–C or 4A–C and ECE 45.",all,,
+ECE 109,ECE ,breadth,computersystem,"Engineering Probability and Statistics (4)Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, MATH 180A–B, MATH 183, MATH 186, ECON 120A, or ECON 120AH will not receive credit for ECE 109. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18. Students who completed MAE 108, MATH 180A-B, MATH 183, MATH 186, or ECON 120A will not receive credit for ECE 109.",all,,
+ECE 111,ECE ,design,computersystem,"Advanced topics in digital circuits and systems. Use of computers and design automation tools. Hazard elimination, synchronous/asynchronous FSM synthesis, synchronization and arbitration, pipelining and timing issues. Problem sets and design exercises. A large-scale design project. Simulation and/or rapid prototyping. Prerequisites: ECE 25 or CSE 140.",all,,
+ECE 115,ECE ,design,computersystem,"Lab-based course. Students will learn how to prototype a mechatronic solution. Topics include cheap/accessible materials and parts; suppliers; fast prototyping techniques; useful electronic sketches and system integration shortcuts. Students will learn to materialize their electromechanical ideas and make design decisions to minimize cost, improve functionality/robustness. Labs will culminate toward a fully functional robot prototype for demonstration. Prerequisites: ECE 16 or consent of instructor.",tbd,,
+ECE 190,ECE ,design,computersystem,"Students complete a project comprising at least 50 percent or more engineering design to satisfy the following features: student creativity, open-ended formulation of a problem statement/specifications, consideration of alternative solutions/realistic constraints. Written final report required. Prerequisites: students enrolling in this course must have completed all of the breadth courses and one depth course. The department stamp is required to enroll in ECE 190. (Specifications and enrollment forms are available in the undergraduate office.)",all,,
+ECE 140B,ECE ,design,computersystem,"Building on a solid foundation of electrical and computer engineer skills, this course strives to broaden student skills in software, full-stack engineering, and concrete understanding of methods related to the realistic development of a commercial product. Students will research, design, and develop an IOT device to serve an emerging market. Prerequisites: ECE 140A.",sp,,
+ECE 191,ECE ,design,computersystem,"Groups of students work to design, build, demonstrate, and document an engineering project. All students give weekly progress reports of their tasks and contribute a section to the final project report. Prerequisites: completion of all of the breadth courses and one depth course.",all,,
+ECE 141A,ECE ,elective,computersystem,"Software Foundations I (4)Software analysis, design, and development. Data structures, algorithms, and design and development idioms in C++. Students will gain broad experience using object-oriented methods and design patterns. Through increasingly difficult challenges, students will gain valuable real-world experience building, testing, and debugging software, and develop a robust mental model of modern software design and architecture. Prerequisites: CSE 30 or ECE 30.",win,,
+ECE 141B,ECE ,elective,computersystem,"Software Foundations II (4)ECE 141B builds upon the solid C++ foundation of ECE 141A. Students will model and build a working database management solution in C++. Topics include STL, design patterns, parsing, searching and sorting, algorithmic thinking, and design partitioning. The course will continue to explore best practices in software development, debugging, and testing. Prerequisites: ECE 141A.",sp,,
+ECE 143,ECE ,elective,computersystem,"Programming for Data Analysis (4)This course covers the fundamentals of using the Python language effectively for data analysis. Students learn the underlying mechanics and implementation specifics of Python and how to effectively utilize the many built-in data structures and algorithms. The course introduces key modules for data analysis such as Numpy, Pandas, and Matplotlib. Participants learn to leverage and navigate the vast Python ecosystem to find codes and communities of individual interest. Prerequisites: ECE 16.",fa&win,,
+ECE 158A,ECE ,elective,computersystem,"Data Networks I (4)Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 109 with a grade of C– or better.",win,,
+ECE 158B,ECE ,elective,computersystem,"Data Networks II (4)Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 158A with a grade of C– or better.",sp,,
+ECE 165,ECE ,elective,computersystem,"Digital Integrated Circuit Design (4)VLSI digital systems. Circuit characterization, performance estimation, and optimization. Circuits for alternative logic styles and clocking schemes. Subsystems include ALUs, memory, processor arrays, and PLAs. Techniques for gate arrays, standard cell, and custom design. Design and simulation using CAD tools. Prerequisites: ECE 102.",sp,,
+CSE 101,CSE,elective,computersystem,"Design and Analysis of Algorithms (4)Design and analysis of efficient algorithms with emphasis of nonnumerical algorithms such as sorting, searching, pattern matching, and graph and network algorithms. Measuring complexity of algorithms, time and storage. NP-complete problems. Prerequisites: CSE 100 or MATH 176; restricted to undergraduates. Graduate students will be allowed as space permits.",all,,
+ECE 155,ECE ,elective,computersystem,"Digital Communications Theory (4)Design and performance analysis of digital modulation techniques, including probability of error results for PSK, DPSK, and FSK. Introduction to effects of intersymbol interference and fading. Detection and estimation theory, including optimal receiver design and maximum-likelihood parameter estimation. Renumbered from ECE 154B. Students may not receive credit for ECE 155 and ECE 154B. Prerequisites: ECE 101 or BENG 122A, ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186, and ECE 153.",fa,,
+CSE 118,CSE,elective,computersystem,"Ubiquitous Computing (4)Explores emerging opportunities enabled by cheap sensors and networked computing devices. Small research projects will be conducted in teams, culminating in project presentations at the end of the term. Section will cover material relevant to the project, such as research methods, software engineering, teamwork, and project management. Prerequisites: any course from the following: CSE 131, CSE 132B, COGS 102C, COGS 121, COGS 184, COMT 111B, COMT 115, ECE 111, ECE 118, ECE 191, ECE 192, or ICAM 160B; or consent of instructor.",fa,,
+ECE 148,ECE ,elective,computersystem,"Introduction to Autonomous Vehicles (4)Fundamentals of autonomous vehicles. Working in small teams, students will develop 1:8 scale autonomous cars that must perform on a simulated city track. Topics include robotics system integration, computer vision, algorithms for navigation, on-vehicle vs. off-vehicle computation, computer learning systems such as neural networks, locomotion systems, vehicle steering, dead reckoning, odometry, sensor fusion, GPS autopilot limitations, wiring, and power distribution and management. Cross-listed with MAE 148. Students may not receive credit for ECE 148 and MAE 148. Program or materials fees may apply. Prerequisites: ECE 15 or ECE 35 or MAE 2 or MAE 3, and consent of instructor.",fa&win,,
+CES 12,CSE,elective,computersystem," Basic Data Structures and Object-Oriented Design (4)Use and implementation of basic data structures including linked lists, stacks, and queues. Use of advanced structures such as binary trees and hash tables. Object-oriented design including interfaces, polymorphism, encapsulation, abstract data types, pre-/post-conditions. Recursion. Uses Java and Java Collections. Prerequisites: CSE 8B or CSE 11, and concurrent enrollment with CSE 15L; restricted to undergraduates. Graduate students will be allowed as space permits.",all,,
+ECE 100,ECE ,breadth,communications,"Linear Electronic Systems (4)Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",fa&sp,,
+ECE 101,ECE ,breadth,communications,"Linear Systems Fundamentals (4)Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.",all,,
+ECE 102,ECE ,breadth,communications,"Introduction to Active Circuit Design (4)Nonlinear active circuits design. Nonlinear device models for diodes, bipolar and field-effect transistors. Linearization of device models and small-signal equivalent circuits. Circuit designs will be simulated by computer and tested in the laboratory. Prerequisites: ECE 65 and ECE 100. ECE 100 can be taken concurrently.",fa&win,,
+ECE 103,ECE ,breadth,communications,"Fundamentals of Devices and Materials (4)Introduction to semiconductor materials and devices. Semiconductor crystal structure, energy bands, doping, carrier statistics, drift and diffusion, p-n junctions, metal-semiconductor junctions. Bipolar junction transistors: current flow, amplification, switching, nonideal behavior. Metal-oxide-semiconductor structures, MOSFETs, device scaling. Prerequisites: ECE 65 and PHYS 2D or PHYS 4D and 4E.",all,,
+ECE 107,ECE ,breadth,communications,"Electromagnetism (4)Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A–C or 4A–C and ECE 45.",all,,
+ECE 109,ECE ,breadth,communications,"Engineering Probability and Statistics (4)Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, MATH 180A–B, MATH 183, MATH 186, ECON 120A, or ECON 120AH will not receive credit for ECE 109. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18. Students who completed MAE 108, MATH 180A-B, MATH 183, MATH 186, or ECON 120A will not receive credit for ECE 109.",all,,
+ECE 111,ECE ,design,communications,"Advanced topics in digital circuits and systems. Use of computers and design automation tools. Hazard elimination, synchronous/asynchronous FSM synthesis, synchronization and arbitration, pipelining and timing issues. Problem sets and design exercises. A large-scale design project. Simulation and/or rapid prototyping. Prerequisites: ECE 25 or CSE 140.",all,,
+ECE 115,ECE ,design,communications,"Lab-based course. Students will learn how to prototype a mechatronic solution. Topics include cheap/accessible materials and parts; suppliers; fast prototyping techniques; useful electronic sketches and system integration shortcuts. Students will learn to materialize their electromechanical ideas and make design decisions to minimize cost, improve functionality/robustness. Labs will culminate toward a fully functional robot prototype for demonstration. Prerequisites: ECE 16 or consent of instructor.",tbd,,
+ECE 190,ECE ,design,communications,"Students complete a project comprising at least 50 percent or more engineering design to satisfy the following features: student creativity, open-ended formulation of a problem statement/specifications, consideration of alternative solutions/realistic constraints. Written final report required. Prerequisites: students enrolling in this course must have completed all of the breadth courses and one depth course. The department stamp is required to enroll in ECE 190. (Specifications and enrollment forms are available in the undergraduate office.)",all,,
+ECE 140B,ECE ,design,communications,"Building on a solid foundation of electrical and computer engineer skills, this course strives to broaden student skills in software, full-stack engineering, and concrete understanding of methods related to the realistic development of a commercial product. Students will research, design, and develop an IOT device to serve an emerging market. Prerequisites: ECE 140A.",sp,,
+ECE 191,ECE ,design,communications,"Groups of students work to design, build, demonstrate, and document an engineering project. All students give weekly progress reports of their tasks and contribute a section to the final project report. Prerequisites: completion of all of the breadth courses and one depth course.",all,,
+ECE 153,ECE ,depth,communications,"Probability and Random Processes for Engineers (4)Random processes. Stationary processes: correlation, power spectral density. Gaussian processes and linear transformation of Gaussian processes. Point processes. Random noise in linear systems. Prerequisites: ECE 109 with a grade of C– or better.",win&sp,,
+ECE 155,ECE ,depth,communications," Digital Communications Theory (4)Design and performance analysis of digital modulation techniques, including probability of error results for PSK, DPSK, and FSK. Introduction to effects of intersymbol interference and fading. Detection and estimation theory, including optimal receiver design and maximum-likelihood parameter estimation. Renumbered from ECE 154B. Students may not receive credit for ECE 155 and ECE 154B. Prerequisites: ECE 101 or BENG 122A, ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186, and ECE 153.",fa,,
+ECE 157A,ECE ,depth,communications,Communications Systems Laboratory I (4)Experiments in the modulation and demodulation of baseband and passband signals. Statistical characterization of signals and impairments. (Course materials and/or program fees may apply.) Prerequisites: ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186 and ECE 161A.,win,,
+ECE 158A,ECE ,depth,communications,"Data Networks I (4)Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 109 with a grade of C– or better.",win,,
+ECE 159,ECE ,depth,communications," Introduction to Data Processing and Information Theory (4)Introduction to information theory and coding, including entropy, average mutual information, channel capacity, block codes, and convolutional codes. Renumbered from ECE 154C. Students may not receive credit for ECE 159 and ECE 154C. Prerequisites: ECE 153.",win,,
+ECE 123,ECE ,elective,communications," Antenna Systems Engineering (4)The electromagnetic and systems engineering of radio antennas for terrestrial wireless and satellite communications. Antenna impedance, beam pattern, gain, and polarization. Dipoles, monopoles, paraboloids, phased arrays. Power and noise budgets for communication links. Atmospheric propagation and multipath. Prerequisites: ECE 107 with a grade of C– or better.",sp,,
+ECE 158B,ECE ,elective,communications,"Data Networks II (4)Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 158A with a grade of C– or better.	spring",spring,,
+ECE 17,ECE ,elective,communications,"Object-Oriented Programming: Design and Development with C++ (4)This course combines the fundamentals of object-oriented design in C++, with the programming, debugging, and testing practices used by modern software developers. Emphasizes the use of object-oriented techniques to model and reason about system design, and using modern C++ idioms, design patterns, and the Standard Template Library (STL) to develop solutions to systems engineering challenges that are more reliable, robust, scalable, and secure. Prerequisites: CSE 8B or CSE 11 or ECE 15.",all,,
+ECE 16,ECE ,elective,communications,"Rapid Hardware and Software Design for Interfacing with the World (4)Students are introduced to embedded systems concepts with structured development of a computer controller based on electromyogram (EMG) signals through four lab assignments through the quarter. Key concepts include sampling, signal processing, communication, and real-time control. Students will apply their prior knowledge in C (from ECE15) to program microcontrollers and will engage in data analysis using the Python programming language. Prerequisites: MAE 8 or CSE 8B or CSE 11 or ECE 15.",all,,
+ECE 100,ECE ,breadth,signalprocessing,"Linear Electronic Systems (4)Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",fa&spr,,
+ECE 101,ECE ,breadth,signalprocessing,"Linear Systems Fundamentals (4)Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.",all,,
+ECE 107,ECE ,breadth,signalprocessing,"Electromagnetism (4)Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A–C or 4A–C and ECE 45.",all,,
+ECE 109,ECE ,breadth,signalprocessing,"Engineering Probability and Statistics (4)Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, MATH 180A–B, MATH 183, MATH 186, ECON 120A, or ECON 120AH will not receive credit for ECE 109. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18. Students who completed MAE 108, MATH 180A-B, MATH 183, MATH 186, or ECON 120A will not receive credit for ECE 109.",all,,
+ECE 161A,ECE ,depth,signalprocessing," Introduction to Digital Signal Processing (4)Review of discrete-time systems and signals, Discrete-Time Fourier Transform and its properties, the Fast Fourier Transform, design of Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) filters, implementation of digital filters. Prerequisites: ECE 101.",fa,,
+ECE 161B,ECE ,depth,signalprocessing," Digital Signal Processing I (4)Sampling and quantization of baseband signals; A/D and D/A conversion, quantization noise, oversampling and noise shaping. Sampling of bandpass signals, undersampling downconversion, and Hilbert transforms. Coefficient quantization, roundoff noise, limit cycles and overflow oscillations. Insensitive filter structures, lattice and wave digital filters. Systems will be designed and tested with Matlab, implemented with DSP processors and tested in the laboratory. Prerequisites: ECE 161A with a grade of C– or better.",win,,
+ECE 161C,ECE ,depth,signalprocessing,"Applications of Digital Signal Processing (4)This course discusses several applications of DSP. Topics covered will include speech analysis and coding; image and video compression and processing. A class project is required, algorithms simulated by Matlab. Prerequisites: ECE 161A.",sp,,
+ECE 153,ECE ,depth,signalprocessing,"Probability and Random Processes for Engineers (4)Random processes. Stationary processes: correlation, power spectral density. Gaussian processes and linear transformation of Gaussian processes. Point processes. Random noise in linear systems. Prerequisites: ECE 109 with a grade of C– or better.",win&sp,,
+ECE 155,ECE ,elective,signalprocessing,"Digital Communications Theory (4)Design and performance analysis of digital modulation techniques, including probability of error results for PSK, DPSK, and FSK. Introduction to effects of intersymbol interference and fading. Detection and estimation theory, including optimal receiver design and maximum-likelihood parameter estimation. Renumbered from ECE 154B. Students may not receive credit for ECE 155 and ECE 154B. Prerequisites: ECE 101 or BENG 122A, ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186, and ECE 153.",fa,,
+ECE 157A,ECE ,elective,signalprocessing,Communications Systems Laboratory I (4)Experiments in the modulation and demodulation of baseband and passband signals. Statistical characterization of signals and impairments. (Course materials and/or program fees may apply.) Prerequisites: ECE 109 or ECON 120A or MAE 108 or MATH 180A or MATH 180B or MATH 183 or MATH 186 and ECE 161A.,win,,
+ECE 158A,ECE ,elective,signalprocessing,"Data Networks I (4)Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 109 with a grade of C– or better.",fa,,
+ECE 158B,ECE ,elective,signalprocessing,"Data Networks II (4)Layered network architectures, data link control protocols and multiple-access systems, performance analysis. Flow control; prevention of deadlock and throughput degradation. Routing, centralized and decentralized schemes, static dynamic algorithms. Shortest path and minimum average delay algorithms. Comparisons. Prerequisites: ECE 158A with a grade of C– or better.",sp,,
+ECE 100,ECE ,breadth,power,"Linear Electronic Systems (4)Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",fa&spr,,
+ECE 101,ECE ,breadth,power,"Linear Systems Fundamentals (4)Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.",all,,
+ECE 102,ECE ,breadth,power,"Introduction to Active Circuit Design (4)Nonlinear active circuits design. Nonlinear device models for diodes, bipolar and field-effect transistors. Linearization of device models and small-signal equivalent circuits. Circuit designs will be simulated by computer and tested in the laboratory. Prerequisites: ECE 65 and ECE 100. ECE 100 can be taken concurrently.",fa&win,,
+ECE 103,ECE ,breadth,power,"Fundamentals of Devices and Materials (4)Introduction to semiconductor materials and devices. Semiconductor crystal structure, energy bands, doping, carrier statistics, drift and diffusion, p-n junctions, metal-semiconductor junctions. Bipolar junction transistors: current flow, amplification, switching, nonideal behavior. Metal-oxide-semiconductor structures, MOSFETs, device scaling. Prerequisites: ECE 65 and PHYS 2D or PHYS 4D and 4E.",all,,
+ECE 107,ECE ,breadth,power,"Electromagnetism (4)Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A–C or 4A–C and ECE 45.",all,,
+ECE 109,ECE ,breadth,power,"Engineering Probability and Statistics (4)Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, MATH 180A–B, MATH 183, MATH 186, ECON 120A, or ECON 120AH will not receive credit for ECE 109. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18. Students who completed MAE 108, MATH 180A-B, MATH 183, MATH 186, or ECON 120A will not receive credit for ECE 109.",all,,
+ECE 121A,ECE ,depth,power," Power Systems Analysis and Fundamentals (4)This course introduces concepts of large-scale power system analysis: electric power generation, distribution, steady-state analysis and economic operation. It provides the fundamentals for advanced courses and engineering practice on electric power systems, smart grid, and electricity economics. The course requires implementing some of the computational techniques in simulation software. Prerequisites: ECE 35.",fa,,
+ECE 121B,ECE ,depth,power,"Energy Conversion (4)Principles of electro-mechanical energy conversion, balanced three-phase systems, fundamental concepts of magnetic circuits, single-phase transformers, and the steady-state performance of DC and induction machines. Students may not receive credit for both ECE 121B and ECE 121. Prerequisites: ECE 121A.",win,,
+ECE 125A,ECE ,depth,power,"Introduction to Power Electronics I (4)Power generation, system, and electronics. Topics include power semiconductor devices and characteristics, single-phase and three-phase half and full controlled AC-to-DC rectifiers, nonisolated/isolated DC-DC converters, power loss calculation, and thermal considerations, Snubber circuits. Prerequisites: ECE 121A.",win,,
+ECE 128A,ECE ,depth,power,"Real World Power Grid Operation (4)Provides practical insights into the operation of the power grid. Covers the same subjects that actual power system operators’ certification course covers. It systematically describes the vital grid operators’ functions and the processes required to operate the system. Uses actual case histories, and real examples of best in-class approaches from across the nation and the globe. Presents the problems encountered by operators and the enabling solutions to remedy them. Prerequisites: upper-division standing.",fa,,
+ECE 125B,ECE ,depth,power," Introduction to Power Electronics II (4)Design and control of DC-DC converters, PWM rectifiers, single-phase and three-phase inverters, power management, and power electronics applications in renewable energy systems, motion control, and lighting. Prerequisites: ECE 125A.",sp,,
+ECE 128B,ECE ,depth,power,"Power Grid Modernization (4)In-depth coverage of the future power grids. Covers the practical aspects of the technologies, their design and system implementation. Topics include the changing nature of the grid with renewable resources, smart meters, synchrophasors (PMU), microgrids, distributed energy resources, and the associated information and communications infrastructures. Presents actual examples and best practices. Students will be provided with various tools. Prerequisites: ECE 35 and ECE 128A.",win,,
+ECE 123,ECE ,elective,power,"Antenna Systems Engineering (4)The electromagnetic and systems engineering of radio antennas for terrestrial wireless and satellite communications. Antenna impedance, beam pattern, gain, and polarization. Dipoles, monopoles, paraboloids, phased arrays. Power and noise budgets for communication links. Atmospheric propagation and multipath. Prerequisites: ECE 107 with a grade of C– or better.",sp,,
+ECE 124,ECE ,elective,power," Motor Drives (4)Topics include the operation of DC motor and induction machine drives in steady state and speed control of DC and induction motor drives in an energy efficient manner using power electronics. Control techniques such as vector control and direct torque control (DTC) of induction machines. Different control methods for direct current motors using different types of power converters, such as DC-DC and AC-DC converters. Design torque, speed, and position controller of DC motor drive. Prerequisites: ECE 121B and ECE 125A.",sp,,
+ECE 128C,ECE ,elective,power,"Power Grid Resiliency to Adverse Effects (4)This course offers unique insight and practical answers through examples, of how power systems can be affected by weather and what/how countermeasures can be applied to mitigate them to make the system more resilient. Detailed explanations of the impacts of extreme weather and applicable industry standards and initiatives. Proven practices for successful restoration of the power grid, increased system resiliency, and ride-through after extreme weather providing real examples from around the globe. Prerequisites: ECE 128B.",sp,,
+ECE 180,ECE ,elective,power,Topics in Electrical and Computer Engineering (4)Topics of special interest in electrical and computer engineering. Subject matter will not be repeated so it may be taken for credit more than once. Prerequisites: consent of instructor; department stamp.,win,,
+ECE 100,ECE ,breadth,machinelearning,"Linear Electronic Systems (4)Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",fall&spring,,
+ECE 101,ECE ,breadth,machinelearning,"Linear Systems Fundamentals (4)Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.",all,,
+ECE 107,ECE ,breadth,machinelearning,"Electromagnetism (4)Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A–C or 4A–C and ECE 45.",all,,
+ECE 109,ECE ,breadth,machinelearning,"Engineering Probability and Statistics (4)Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, MATH 180A–B, MATH 183, MATH 186, ECON 120A, or ECON 120AH will not receive credit for ECE 109. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18. Students who completed MAE 108, MATH 180A-B, MATH 183, MATH 186, or ECON 120A will not receive credit for ECE 109.",all,,
+ECE171A,ECE,depth,machinelearning,"ECE 171A. Linear Control System Theory (4)
+Stability of continuous- and discrete-time single-input/single-output linear time-invariant
+control systems emphasizing frequency domain methods. Transient and steady-state
+behavior. Stability analysis by root locus, Bode, Nyquist, and Nichols plots.
+Compensator design. Prerequisites: ECE 45 or MAE 140.",sp,,
+ECE174,ECE,depth,machinelearning," Introduction to Linear and Nonlinear Optimization with Applications (4)
+The linear least squares problem, including constrained and unconstrained quadratic
+optimization and the relationship to the geometry of linear transformations. Introduction
+to nonlinear optimization. Applications to signal processing, system identification,
+robotics, and circuit design. Recommended preparation: ECE 100. Prerequisites:
+MATH 20F or MATH 18, ECE 15, and ECE 109 or consent of instructor.",fa,,
+ECE175A,ECE,depth,machinelearning," Elements of Machine Intelligence: Pattern Recognition and Machine Learning (4)
+Introduction to pattern recognition and machine learning. Decision functions. Statistical
+pattern classifiers. Generative vs. discriminant methods for pattern classification.",win,,
+ECE171B,ECE,depth,machinelearning," Linear Control System Theory (4)
+Time-domain, state-variable formulation of the control problem for both discrete-time
+and continuous-time linear systems. State-space realizations from transfer function
+system description. Internal and input-output stability, controllability/observability,
+minimal realizations, and pole-placement by full-state feedback. Prerequisites: ECE
+171A with a grade of C– or better.",fa,,
+ECE172A,ECE,depth,machinelearning," Introduction to Intelligent Systems: Robotics and Machine Intelligence (4)
+This course will introduce basic concepts in machine perception. Topics covered will
+include edge detection, segmentation, texture analysis, image registration, and
+compression. Prerequisites: ECE 101 with a grade of C– or better. ECE 109
+recommended.",win,,
+ECE175B,ECE,depth,machinelearning,"Elements of Machine Intelligence: Probabilistic Reasoning and Graphical Models
+(4)
+Bayes’ rule as a probabilistic reasoning engine; graphical models as knowledge
+encoders; conditional independence and D-Separation; Markov random fields; inference
+in graphical models; sampling methods and Markov Chain Monte Carlo (MCMC);
+sequential data and the Viterbi and BCJR algorithms; The Baum-Welsh algorithm for
+Markov Chain parameter estimation. Prerequisites: ECE 175A.",sp,,
+ECE111,ECE,design,machinelearning," Advanced Digital Design Project (4)
+Advanced topics in digital circuits and systems. Use of computers and design
+automation tools. Hazard elimination, synchronous/asynchronous FSM synthesis,
+synchronization and arbitration, pipelining and timing issues. Problem sets and design
+exercises. A large-scale design project. Simulation and/or rapid prototyping.
+Prerequisites: ECE 25 or CSE 140.",all,,
+ECE115,ECE,design,machinelearning," Fast Prototyping (4)
+Lab-based course. Students will learn how to prototype a mechatronic solution. Topics
+include cheap/accessible materials and parts; suppliers; fast prototyping techniques;
+useful electronic sketches and system integration shortcuts. Students will learn to
+materialize their electromechanical ideas and make design decisions to minimize cost,
+improve functionality/robustness. Labs will culminate toward a fully functional robot
+prototype for demonstration. Prerequisites: ECE 16 or consent of instructor.",win,,
+ECE140B,ECE,design,machinelearning,"The Art of Product Engineering II (4)
+Building on a solid foundation of electrical and computer engineer skills, this course
+strives to broaden student skills in software, full-stack engineering, and concrete
+understanding of methods related to the realistic development of a commercial product.
+Students will research, design, and develop an IOT device to serve an emerging
+market. Prerequisites: ECE 140A.",sp,,
+ECE190,ECE,design,machinelearning,"Engineering Design (4)
+Students complete a project comprising at least 50 percent or more engineering design
+to satisfy the following features: student creativity, open-ended formulation of a problem
+statement/specifications, consideration of alternative solutions/realistic constraints.
+Written final report required. Prerequisites: students enrolling in this course must have
+completed all of the breadth courses and one depth course. The department stamp is
+required to enroll in ECE 190. (Specifications and enrollment forms are available in the
+undergraduate office.)",tbd,,
+ECE191,ECE,design,machinelearning,"Engineering Group Design Project (4)
+Groups of students work to design, build, demonstrate, and document an engineering
+project. All students give weekly progress reports of their tasks and contribute a section
+to the final project report. Prerequisites: completion of all of the breadth courses and
+one depth course.",all,,
+CSE150A,CSE,elective,machinelearning," Introduction to Artificial Intelligence: Probabilistic Reasoning and
+Decision-Making (4)
+Introduction to probabilistic models at the heart of modern artificial intelligence. Specific
+topics to be covered include probabilistic methods for reasoning and decision-making
+under uncertainty; inference and learning in Bayesian networks; prediction and planning
+in Markov decision processes; applications to intelligent systems, speech and natural
+language processing, information retrieval, and robotics. Prerequisites: (CSE 12 or
+DSC 40B) and (CSE 15L or DSC 80) and (CSE 103 or ECE 109 or ECON 120A or
+MATH 183) and MATH 20A and (MATH 18 or MATH 31AH) ; restricted to students
+within the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be
+allowed as space permits.",wn&sp,,
+CSE150B,CSE,elective,machinelearning," Introduction to Artificial Intelligence: Search and Reasoning (4)
+The course will introduce important ideas and algorithms in search and reasoning and
+demonstrate how they are used in practical AI applications. Topics include A* search,
+adversarial search, Monte Carlo tree search, reinforcement learning, constraint solving
+and optimization, propositional and first-order reasoning. Prerequisites: (CSE 12 or
+DSC 40B) and (CSE 15L or DSC 80) and (CSE 103 or ECE 109 or ECON 120A or
+MATH 183) and CSE 100; restricted to students within the CS25, CS26, CS27, CS28,
+EC26, and DS25 majors. All other students will be allowed as space permits.",fa,,
+CSE151A,CSE,elective,machinelearning," Introduction to Machine Learning (4)
+Broad introduction to machine learning. The topics include some topics in supervised
+learning, such as k-nearest neighbor classifiers, decision trees, boosting, and
+perceptrons; and topics in unsupervised learning, such as k-means and hierarchical
+clustering. In addition to the actual algorithms, the course focuses on the principles
+behind the algorithms. Students may not receive credit for both CSE 151A and COGS
+188, nor may they receive credit for both CSE 151A and CSE 151. Prerequisites: (CSE
+12 or DSC 40B) and (CSE 15L or DSC 80) and (CSE 103 or MATH 181A or ECE 109 or
+MATH 183 or ECON 120A) and (MATH 18 or MATH 31AH); restricted to students within
+the CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will be
+allowed as space permits. ",all,,
+CSE151B,CSE,elective,machinelearning,"Deep Learning (4)
+(Formerly CSE 154.) This course covers the fundamentals of neural networks. We
+introduce linear regression, logistic regression, perceptrons, multilayer networks and
+back-propagation, convolutional neural networks, recurrent networks, and deep
+networks trained by reinforcement learning. Students may receive credit for one of the
+following: CSE 151B, CSE 154, or COGS 181. Prerequisites: (MATH 31BH or MATH
+20C) and (ECON 120A or ECE 109 or CSE 103 or MATH 181A or MATH 183);
+restricted to students with sophomore, junior, or senior standing within the CS25, CS26,
+CS27, CS28, EC26, and DS25 majors. All other students will be allowed as space
+permits.",fa,,
+CSE152,CSE,elective,machinelearning," Introduction to Computer Vision (4)
+The goal of computer vision is to compute scene and object properties from images and
+video. This introductory course includes feature detection, image segmentation, motion
+estimation, object recognition, and 3-D shape reconstruction through stereo,
+photometric stereo, and structure from motion. Prerequisites: MATH 18 or MATH 20F
+or MATH 31AH and CSE 100 or DSC 40B or MATH 176 and CSE 101 or DSC 80 or
+MATH 188; restricted to students with sophomore, junior, or senior standing within the
+CS25, CS26, CS27, CS28, and EC26 majors. All other students will be allowed as
+space permits.",tbd,,
+CSE152A,CSE,elective,machinelearning," Introduction to Computer Vision I (4)
+This course provides a broad introduction to the foundations, algorithms, and
+applications of computer vision. It introduces classical models and contemporary
+methods, from image formation models to deep learning, to address problems of 3-D
+reconstruction and object recognition from images and video. Topics include filtering,
+feature detection, stereo vision, structure from motion, motion estimation, and
+recognition. Programming assignments will be in Python. Students may not receive
+credit for both CSE 152A and CSE 152. Prerequisites: (MATH 18 or MATH 31AH) and
+(CSE 12 or DSC 30) and (CSE 15L or DSC 80); Python programming experience
+recommended; restricted to students within the CS25, CS26, CS27, CS28, and EC26
+majors. All other students will be allowed as space permits.",fa&win,,
+CSE152B,CSE,elective,machinelearning," Introduction to Computer Vision II (4)
+This course covers advanced topics needed to apply computer vision in industry or
+follow current research. Example topics include real-time systems for 3D computer
+vision, machine learning tools such as support-vector machine (SVM) and boosting for
+image classification, and deep neural networks for object detection and semantic
+segmentation. Prerequisites: CSE 152A or CSE 152; Python programming experience
+recommended; restricted to students within the CS25, CS26, CS27, CS28, and EC26
+majors. All other students will be allowed as space permits.",sp,,
+CSE156,CSE,elective,machinelearning,"Statistical Natural Language Processing (4)
+Natural language processing (NLP) is a field of AI which aims to equip computers with
+the ability to intelligently process natural (human) language. This course will explore
+statistical techniques for the automatic analysis of natural language data. Specific topics
+covered include probabilistic language models, which define probability distributions
+over text passages; text classification; sequence models; parsing sentences into
+syntactic representations; and machine translation. Prerequisites: MATH 20C or MATH
+31BH and MATH 18 or MATH 31AH and COGS 118A or CSE 150 or CSE 151;
+restricted to students with sophomore, junior, or senior standing within the CS25, CS26,
+CS27, CS28, and EC26 majors. All other students will be allowed as space permits.",sp,,
+CSE158,CSE,elective,machinelearning," Recommender Systems and Web Mining (4)
+Current methods for data mining and predictive analytics. Emphasis is on studying
+real-world data sets, building working systems, and putting current ideas from machine
+learning research into practice. Prerequisites: (CSE 12 or DSC 40B) and (CSE 15L or
+DSC 80) and (CSE 103 or ECE 109 or MATH 181A or ECON 120A or MATH 183);
+restricted to CS25, CS26, CS27, CS28, EC26, and DS25 majors. All other students will
+be allowed as space permits.",fa,,
+CSE184,CSE,elective,machinelearning,"Computational Molecular Biology (4)
+This advanced course covers the application of machine learning and modeling
+techniques to biological systems. Topics include gene structure, recognition of DNA and
+protein sequence patterns, classification, and protein structure prediction. Pattern
+discovery, Hidden Markov models/support victor machines/neural network/profiles.
+Protein structure prediction, functional characterization or proteins, functional
+genomics/proteomics, metabolic pathways/gene networks. Cross-listed with BIMM
+184/BENG 184/CHEM 184. Prerequisites: BIMM 181 or BENG 181 or CSE 181,
+BENG 182 or BIMM 182 or CSE 182 or CHEM 182. Bioinformatics majors only.",tbd,,
+COGS108,COGS,elective,machinelearning," Data Science in Practice (4)
+Data science is multidisciplinary, covering computer science, statistics, cognitive
+science and psychology, data visualization, artificial intelligence and machine learning,
+among others. This course teaches critical skills needed to pursue a data science
+career using hands-on programming and experimental challenges. Prerequisites: CSE
+11 or CSE 8A or COGS 18 or DSC 10 or MAE 8.",all,,
+COGS109,COGS,elective,machinelearning,"Modeling and Data Analysis (4)
+Exposure to the basic computational methods useful throughout cognitive science.
+Computing basic statistics, modeling learning individuals, evolving populations,
+communicating agents, and corpus-based linguistics will be considered. Prerequisites:
+COGS 14B, MATH 18 or MATH 31AH, and COGS 18 or CSE 7 or CSE 8A or CSE 11.",fa&sp,,
+COGS118A,COGS,elective,machinelearning," Supervised Machine Learning Algorithms (4)
+This course introduces the mathematical formulations and algorithmic implementations
+of the core supervised machine learning methods. Topics in 118A include regression,
+nearest neighborhood, decision tree, support vector machine, and ensemble classifiers.
+COGS 118A-B may be taken in either order. Prerequisites: COGS 18 or CSE 8B or
+CSE 11 and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS 108
+or COGS 109 or COGS 118B or CSE 150 or CSE 151 or CSE 158 or ECE 174 or ECE
+175A or consent of instructor.",win,,
+COGS118B,COGS,elective,machinelearning,"Introduction to Machine Learning II (4)
+This course, with COGS 118A, forms a rigorous introduction to machine learning.
+Topics in 118B include maximum likelihood estimation, Bayesian parameter estimation,
+clustering, principal component analysis, and some application areas. COGS 118A-B
+may be taken in either order. Prerequisites: CSE 8B or CSE 11 and MATH 18 or
+MATH 31AH and MATH 20E and MATH 180A or consent of instructor.",fa,,
+COGS118D,COGS,elective,machinelearning,"Mathematical Statistics for Behavioral Data Analysis (4)
+Statistical methods for analyzing behavioral data. A mathematically sophisticated
+course covering both classical and Bayesian statistical methods for estimation,
+hypothesis testing, regression, and model comparison. Emphasis on both mathematical
+understanding of statistical methods as well as common applications. Prerequisites:
+MATH 18 or MATH 31AH and MATH 180A or consent of instructor.",tbd,,
+COGS181,COGS,elective,machinelearning,"Neural Networks and Deep Learning (4)
+This course will cover the basics about neural networks, as well as recent developments
+in deep learning including deep belief nets, convolutional neural networks, recurrent
+neural networks, long-short term memory, and reinforcement learning. We will study
+details of the deep learning architectures with a focus on learning end-to-end models for
+these tasks, particularly image classification. Prerequisites: COGS 18 or CSE 11 or
+CSE 8B and MATH 18 or MATH 31AH and MATH 20E and MATH 180A and COGS
+118A or COGS 118B or CSE 150 or CSE 151 or CSE 158 or ECE 174 or ECE 175A",sp,,
+COGS185,COGS,elective,machinelearning,"Advanced Machine Learning Methods (4)
+This course is an advanced seminar and project course that follows the introduction to
+machine learning courses. Advanced and new machine learning methods will be
+discussed and used. Prerequisites: COGS 118B or COGS 118A.",tbd,,
+COGS188,COGS,elective,machinelearning," Artificial Intelligence Algorithms (4)
+This class will cover a broad spectrum of machine learning algorithms. It builds on
+students’ previous exposure to machine learning. It covers new artificial intelligence
+algorithms ranging from topic models as used in the text data analysis to genetic
+algorithms. Prerequisites: COGS 109 or COGS 118A or COGS 118B.",tbd,,
+MATH102,MATH,elective,machinelearning,"Applied Linear Algebra (4)
+Second course in linear algebra from a computational yet geometric point of view.
+Elementary Hermitian matrices, Schur’s theorem, normal matrices, and quadratic forms.
+Moore-Penrose generalized inverse and least square problems. Vector and matrix
+norms. Characteristic and singular values. Canonical forms. Determinants and
+multilinear algebra. Prerequisites: MATH 18 or MATH 20F or MATH 31AH and MATH
+20C. Students who have not completed listed prerequisites may enroll with consent of
+instructor.",all,,
+MATH170A,MATH,elective,machinelearning," Introduction to Numerical Analysis: Linear Algebra (4)
+Analysis of numerical methods for linear algebraic systems and least squares problems.
+Orthogonalization methods. Ill conditioned problems. Eigenvalue and singular value
+computations. Knowledge of programming recommended. Prerequisites: MATH 18 or
+MATH 20F or MATH 31AH, and MATH 20C. Students who have not completed the
+listed prerequisites may enroll with consent of instructor",all,,
+MATH170B,MATH,elective,machinelearning," Introduction to Numerical Analysis: Approximation and Nonlinear Equations (4)
+Rounding and discretization errors. Calculation of roots of polynomials and nonlinear
+equations. Interpolation. Approximation of functions. Knowledge of programming
+recommended. Prerequisites: MATH 170A.",win&sp,,
+MATH180A,MATH,elective,machinelearning," Introduction to Probability (4)
+Probability spaces, random variables, independence, conditional probability,
+distribution, expectation, variance, joint distributions, central limit theorem. (Two units of
+credit offered for MATH 180A if ECON 120A previously, no credit offered if ECON 120A
+concurrently. Two units of credit offered for MATH 180A if MATH 183 or 186 taken
+previously or concurrently.) Prior or concurrent enrollment in MATH 109 is highly
+recommended. Prerequisites: Math 20C or MATH 31BH, or consent of instructor",fa&win,,
+MATH180B,MATH,elective,machinelearning,"Introduction to Stochastic Processes I (4)
+Random vectors, multivariate densities, covariance matrix, multivariate normal
+distribution. Random walk, Poisson process. Other topics if time permits.
+Prerequisites: MATH 20D and either MATH 18 or MATH 20F or MATH 31AH, and
+MATH 109 or MATH 31CH, and MATH 180A. Students who have not completed listed
+prerequisites may enroll with consent of instructor.",win&sp,,
+MATH181A,MATH,elective,machinelearning,"Introduction to Mathematical Statistics I (4)
+Multivariate distribution, functions of random variables, distributions related to normal.
+Parameter estimation, method of moments, maximum likelihood. Estimator accuracy
+and confidence intervals. Hypothesis testing, type I and type II errors, power,
+one-sample t-test. Prior or concurrent enrollment in MATH 109 is highly recommended.
+Prerequisites: MATH 180A, and MATH 18 or MATH 20F or MATH 31AH, and MATH
+20C. Students who have not completed listed prerequisites may enroll with consent of
+instructor.",win&sp,,
+MATH181B,MATH,elective,machinelearning," Introduction to Mathematical Statistics II (4)
+Hypothesis testing. Linear models, regression, and analysis of variance. Goodness of fit
+tests. Nonparametric statistics. Two units of credit offered for MATH 181B if ECON
+120B previously; no credit offered if ECON 120B concurrently. Prior enrollment in MATH
+109 is highly recommended. Prerequisites: MATH 181A or consent of instructor.",win&sp,,
+MATH181C,MATH,elective,machinelearning,"Mathematical Statistics—Nonparametric Statistics (4)
+Topics covered may include the following: classical rank test, rank correlations,
+permutation tests, distribution free testing, efficiency, confidence intervals,
+nonparametric regression and density estimation, resampling techniques (bootstrap,
+jackknife, etc.) and cross validations. Prior enrollment in MATH 109 is highly
+recommended. Prerequisites: MATH 181B or consent of instructor.",fa&sp,,
+MATH181D,MATH,elective,machinelearning," Statistical Learning (4)
+Statistical learning refers to a set of tools for modeling and understanding complex data
+sets. It uses developments in optimization, computer science, and in particular machine
+learning. This encompasses many methods such as dimensionality reduction, sparse
+representations, variable selection, classification, boosting, bagging, support vector
+machines, and machine learning. Prerequisites: ECE 109 or ECON 120A or MAE 108
+or MATH 181A or MATH 183 or MATH 186 or MATH 189. Students who have not
+completed listed prerequisites may enroll with consent of instructor.",tbd,,
+MATH183,MATH,elective,machinelearning," Statistical Methods (4)
+Introduction to probability. Discrete and continuous random variables–binomial, Poisson
+and Gaussian distributions. Central limit theorem. Data analysis and inferential
+statistics: graphical techniques, confidence intervals, hypothesis tests, curve fitting.
+(Credit not offered for MATH 183 if ECON 120A, ECE 109, MAE 108, MATH 181A, or
+MATH 186 previously or concurrently taken. Two units of credit offered for MATH 183 if
+MATH 180A taken previously or concurrently.) Prerequisites: MATH 20C or MATH
+31BH, or consent of instructor.",all,,
+MATH185,MATH,elective,machinelearning,"Introduction to Computational Statistics (4)
+Statistical analysis of data by means of package programs. Regression, analysis of
+variance, discriminant analysis, principal components, Monte Carlo simulation, and
+graphical methods. Emphasis will be on understanding the connections between
+statistical theory, numerical results, and analysis of real data. Recommended
+preparation: exposure to computer programming (such as CSE 5A, CSE 7, or ECE 15)
+highly recommended. Prerequisites: MATH 11, or MATH 181A, or MATH 183, or
+MATH 186, or MAE 108, or ECE 109, or ECON 120A, and either MATH 18 or MATH
+20F or MATH 31AH, and MATH 20C. Students who have not completed listed
+prerequisites may enroll with consent of instructor.",fa&sp,,
+ECE 100,ECE ,breadth,photonics,"Linear Electronic Systems (4)Linear active circuit and system design. Topics include frequency response; use of Laplace transforms; design and stability of filters using operational amplifiers. Integrated lab and lecture involves analysis, design, simulation, and testing of circuits and systems. Program or materials fees may apply. Prerequisites: ECE 45 and ECE 65. ECE 65 may be taken concurrently.",fa&sp,,
+ECE 101,ECE ,breadth,photonics,"Linear Systems Fundamentals (4)Complex variables. Singularities and residues. Signal and system analysis in continuous and discrete time. Fourier series and transforms. Laplace and z-transforms. Linear Time Invariant Systems. Impulse response, frequency response, and transfer functions. Poles and zeros. Stability. Convolution. Sampling. Aliasing. Prerequisites: ECE 45 with grade of C– or better.",all,,
+ECE 107,ECE ,breadth,photonics,"Electromagnetism (4)Electrostatics and magnetostatics; electrodynamics; Maxwell’s equations; plane waves; skin effect. Electromagnetics of transmission lines: reflection and transmission at discontinuities, Smith chart, pulse propagation, dispersion. Rectangular waveguides. Dielectric and magnetic properties of materials. Electromagnetics of circuits. Prerequisites: PHYS 2A–C or 4A–C and ECE 45.",all,,
+ECE 109,ECE ,breadth,photonics,"Engineering Probability and Statistics (4)Axioms of probability, conditional probability, theorem of total probability, random variables, densities, expected values, characteristic functions, transformation of random variables, central limit theorem. Random number generation, engineering reliability, elements of estimation, random sampling, sampling distributions, tests for hypothesis. Students who completed MAE 108, MATH 180A–B, MATH 183, MATH 186, ECON 120A, or ECON 120AH will not receive credit for ECE 109. Prerequisites: MATH 20A-B, MATH 20D, MATH 20C or MATH 31BH, and MATH 31AH or MATH 18. Students who completed MAE 108, MATH 180A-B, MATH 183, MATH 186, or ECON 120A will not receive credit for ECE 109.",all,,
+ECE181,ECE ,depth,photonics,"Physical Optics and Fourier Optics (4)
+Ray optics, wave optics, beam optics, Fourier optics, and electromagnetic optics. Ray
+transfer matrix, matrices of cascaded optics, numerical apertures of step and graded
+index fibers. Fresnel and Fraunhofer diffractions, interference of waves. Gaussian and
+Bessel beams, the ABCD law for transmissions through arbitrary optical systems.
+Spatial frequency, impulse response and transfer function of optical systems, Fourier
+transform and imaging properties of lenses, holography. Wave propagation in various
+(inhomogeneous, dispersive, anisotropic or nonlinear) media. (Course materials and/or
+program fees may apply.) Prerequisites: ECE 103 and 107 with grades of C– or better.",win,,
+ECE182,ECE ,depth,photonics,"Electromagnetic Optics, Guided-Wave, and Fiber Optics (4)
+Polarization optics: crystal optics, birefringence. Guided-wave optics: modes, losses,
+dispersion, coupling, switching. Fiber optics: step and graded index, single and
+multimode operation, attenuation, dispersion, fiber optic communications. Resonator
+optics. (Course materials and/or program fees may apply.) Prerequisites: ECE 103 and
+107 with grades of C– or better.",fa,,
+ECE183,ECE ,depth,photonics,"Optical Electronics (4)
+Quantum electronics, interaction of light and matter in atomic systems, semiconductors.
+Laser amplifiers and laser systems. Photodetection. Electro-optics and acousto-optics,
+photonic switching. Fiber optic communication systems. Labs: semiconductor lasers,
+semiconductor photodetectors. (Course materials and/or program fees may apply.)
+Prerequisites: ECE 103 and 107 with grades of C– or better",win,,
+ECE184,ECE ,depth,photonics,"Optical Information Processing and Holography (4)
+(Conjoined with ECE 241AL) Labs: optical holography, photorefractive effect, spatial
+filtering, computer generated holography. Students enrolled in ECE 184 will receive four
+units of credit; students enrolled in ECE 241AL will receive two units of credit. (Course
+materials and/or program fees may apply.) Prerequisites: ECE 182 with a grade of C–
+or better.",tbd,,
+ECE185,ECE ,depth,photonics,"Lasers and Modulators (4)
+(Conjoined with ECE 241BL) Labs: CO2 laser, HeNe laser, electro-optic modulation,
+acousto-optic modulation, spatial light modulators. Students enrolled in ECE 185 will
+receive four units of credit; students enrolled in ECE 241BL will receive two units of
+credit. (Course materials and/or program fees may apply.) Prerequisites: ECE 183 with
+a grade of C– or better.",sp,,
+PHYS111,PHYS,elective,photonics," Introduction to Ocean Waves (4)
+The linear theory of ocean surface waves, including group velocity, wave dispersion, ray
+theory, wave measurement and prediction, shoaling waves, giant waves, ship wakes,
+tsunamis, and the physics of the surf zone. Cross-listed with SIO 111. Students may not
+receive credit for SIO 111 and PHYS 111. Prerequisites: PHYS 2A-B-C or 4A-B-C,
+MATH 20A, 20B, 20C or 31BH, 20D, and 20E or 31CH.",tbd,,
+PHYS120,PHYS,elective,photonics," Circuits and Electronics (5)
+Laboratory and lecture course that covers principles of analog circuit theory and design,
+linear systems theory, and practical aspects of circuit realization, debugging, and
+characterization. Laboratory exercises include passive circuits, active filters and
+amplifiers with discrete and monolithic devices, nonlinear circuits, interfaces to sensors
+and actuators, and the digitization of analog signals. PHYS 120 was formerly numbered
+PHYS 120A. Program or materials fees may apply. Prerequisites: PHYS 2A-B-C or
+4A-B-C, and 2CL. Open to major codes PY26, PY28, PY29, PY30, PY31, PY32, PY33,
+and PY34 only. Recommended preparation: PHYS 100A.",sp,,
+MAE131A,MAE,elective,photonics," Solid Mechanics I (4)
+Concepts of stress and strain. Hooke’s Law. Axial loading of bars. Torsion of circular
+shafts. Shearing and normal stresses in beam bending. Deflections in beams. Statically
+determinate and indeterminate problems. Combined loading. Principal stresses and
+design criteria. Buckling of columns. Prerequisites: MATH 20D and MAE 130A or SE
+101A.",fa&sp,,
+MAE131B,MAE,elective,photonics,"Fundamentals of Solid Mechanics II (4)
+Analysis of 3-D states of stress and strain. Governing equations of linear elasticity.
+Solution of elasticity problems in rectangular and polar coordinates. Stress
+concentration. Failure criteria. Torsion of noncircular and thin walled members. Energy
+methods. Plastic collapse and limit analysis. Prerequisites: MAE 131A or SE 110A and
+MAE 105. Enrollment restricted to engineering majors only.",win&sp,,
+SE101A,SE,elective,photonics,"Mechanics I: Statics (4)
+Principles of statics using vectors. Two- and three-dimensional equilibrium of statically
+determinate structures under discrete and distributed loading including hydrostatics;
+internal forces and concept of stress; free body diagrams; moment, product of inertia;
+analysis of trusses and beams. Prerequisites: grade of C– or better in MATH 20C and
+PHYS 2A.",fa&win,,
+SE101B,SE,elective,photonics,"Mechanics II: Dynamics (4)
+Kinematics and kinetics of particles in two- and three-dimensional motion. Newton’s
+equations of motion. Energy and momentum methods. Impulsive motion and impact.
+Systems of particles. Kinetics and kinematics of rigid bodies in 2-D. Introduction to 3-D
+dynamics of rigid bodies. Prerequisites: grades of C– or better in SE 101A (or MAE
+130A).",win&sp,,
+ECE140A,ECE ,design,photonics,"The Art of Product Engineering I (4)
+Building on a solid foundation of electrical and computer engineer skills, this course
+strives to broaden student skills in software, full-stack engineering, and concrete
+understanding of methods related to the realistic development of a commercial product.
+Students will research, design, and develop an IOT device to serve an emerging
+market. Prerequisites: CSE 8B or CSE 11 or ECE 15.",win,,
+ECE140B,ECE ,design,photonics,"The Art of Product Engineering II (4)
+Building on a solid foundation of electrical and computer engineer skills, this course
+strives to broaden student skills in software, full-stack engineering, and concrete
+understanding of methods related to the realistic development of a commercial product.
+Students will research, design, and develop an IOT device to serve an emerging
+market. Prerequisites: ECE 140A.",sp,,
+ECE111,ECE ,design,photonics," Advanced Digital Design Project (4)
+Advanced topics in digital circuits and systems. Use of computers and design
+automation tools. Hazard elimination, synchronous/asynchronous FSM synthesis,
+synchronization and arbitration, pipelining and timing issues. Problem sets and design
+exercises. A large-scale design project. Simulation and/or rapid prototyping.
+Prerequisites: ECE 25 or CSE 140.",all,,
+ECE115,ECE ,design,photonics," Fast Prototyping (4)
+Lab-based course. Students will learn how to prototype a mechatronic solution. Topics
+include cheap/accessible materials and parts; suppliers; fast prototyping techniques;
+useful electronic sketches and system integration shortcuts. Students will learn to
+materialize their electromechanical ideas and make design decisions to minimize cost,
+improve functionality/robustness. Labs will culminate toward a fully functional robot
+prototype for demonstration. Prerequisites: ECE 16 or consent of instructor.",tdb,,
+ECE190,ECE ,design,photonics,"Engineering Design (4)
+Students complete a project comprising at least 50 percent or more engineering design
+to satisfy the following features: student creativity, open-ended formulation of a problem
+statement/specifications, consideration of alternative solutions/realistic constraints.
+Written final report required. Prerequisites: students enrolling in this course must have
+completed all of the breadth courses and one depth course. The department stamp is
+required to enroll in ECE 190. (Specifications and enrollment forms are available in the
+undergraduate office.)",tbd,,
+ECE191,ECE ,design,photonics,"Engineering Group Design Project (4)
+Groups of students work to design, build, demonstrate, and document an engineering
+project. All students give weekly progress reports of their tasks and contribute a section
+to the final project report. Prerequisites: completion of all of the breadth courses and
+one depth course.",all,,

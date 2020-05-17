@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-color: HSLA(45,50%,84%,1.00);
+    padding: 1rem;
+  }
+
+#header {
+    padding:5px; 
+    color Skyblue;
+    background: gold;
+    padding:5px;
+    font-size: calc(0.5rem + 3vw);
+}
+
+#form {
+    padding:5px; 
+    color Skyblue;
+    background: lightblue;
+    padding:5px;
+    font-size: calc(0.1rem + 3vw);
+}

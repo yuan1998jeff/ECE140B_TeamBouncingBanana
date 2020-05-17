@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>  
+    <meta charset="utf-8">
+    <title>KVP_page</title>
+
+    <!-- <link rel="stylesheet" href="templates/KVP_page.css"> -->
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: HSLA(197,100%,84%,1.00);
+            padding: 1rem;
+        }
+        
+        aside {
+            border:2px solid HSLA(240, 100%, 90%, 0.5);
+        }
+        
+        section.grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-gap: 1rem;
+        }
+        
+        @media screen and (min-width: 1024px) {
+            section.grid {
+            grid-template-columns: 1fr 1fr 1fr;
+            }
+        }
+        
+        #buttons{
+            background: gold;
+            padding:5px;
+            text-align: center;
+            font-size: calc(0.2rem + 3vw);
+        }
+        
+        #title{
+            background: pink;
+            padding:50px;
+            text-align: center;
+            font-size: calc(0.2rem + 3vw);
+        }
+        #detail{
+            margin-top:0;
+            background: black;
+            padding:50px;
+            text-align: center;
+            font-size: calc(0.2rem + 3vw);
+        }
+        .det {
+            color: skyblue;
+        }
+    </style>
+  </head>
+  
+  <body> 
+    
+    <section class="grid">
+
+      <aside id="title">A Chatbot with personality!</aside>
+
+      <aside id="detail">
+        <div class="det">A intelligent Chatbot that helps you find desired information quickly and accurately</div>
+        <div class="det">Compatible with all major Q&A platforms</div>
+      </aside>
+      
+      <aside id="pic">
+        <!-- <img src="image/bot.jpg" alt="Chatbot image" width="300" height="500"> -->
+        <img src="https://clustaar.com/wp-content/uploads/2018/04/Voice-bot-google-home-1.png" alt="Chatbot" width="600" height="800">
+      </aside>
+      
+    </section>
+    
+    <div id="buttons">
+    <a href = "http://localhost:5000/signup">
+      <button>Subscribe</button>
+    </a><br>
+    <a href = "http://localhost:5000/aboutUs">
+      <button>About Us</button>
+    </a>  
+    </div>
+      
+  </body>
+</html>
+  
+
+
