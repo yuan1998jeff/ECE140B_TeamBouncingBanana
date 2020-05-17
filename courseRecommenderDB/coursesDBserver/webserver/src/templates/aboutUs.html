@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>  
+    <meta charset="utf-8">
+    <title>KVP_page</title>
+
+    <!-- <link rel="stylesheet" href="aboutUs/css"> -->
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: HSLA(197,100%,84%,1.00);
+            padding: 1rem;
+        }
+        
+        aside {
+            border:2px solid HSLA(240, 100%, 90%, 0.5);
+        }
+        
+        section.grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-gap: 1rem;
+        }
+        
+        @media screen and (min-width: 1024px) {
+            section.grid {
+            grid-template-columns: 1fr 1fr 1fr;
+            }
+        }
+        
+        #header {
+            background: gold;
+            padding:5px;
+            text-align: center;
+            font-size: calc(0.2rem + 3vw);
+            
+        }
+        
+        #buttons{
+            background: gold;
+            padding:5px;
+            text-align: center;
+            font-size: calc(0.2rem + 3vw);
+        }
+        
+        #title{
+            background: pink;
+            padding:5px;
+            text-align: center;
+            font-size: calc(0.2rem + 3vw);
+        }
+        
+        #ourgroup {
+            font-size: calc(1rem + 3vw);
+        }
+        
+        #names {
+            background: pink;
+            padding:50px;
+            text-align: center;
+            font-size: calc(0.2rem + 3vw);
+        }
+        
+        #vision_statement{
+            margin-top:0;
+            background: black;
+            padding:50px;
+            text-align: center;
+            font-size: calc(0.2rem + 3vw);
+        }
+        
+        .det {
+            color: skyblue;
+        }  
+    </style>
+  </head>
+  
+  <h1 id="header">About Us</h1>
+  <body> 
+    
+    <section class="grid">
+
+      <aside id="title">
+      <div id="ourgroup">Our group:</div>
+      <div id="names">Siyuan Zhu,<br> Zehu Tang,<br> Lingxi Li,<br> Conor McGarigle</aside> </div>
+
+      <aside id="vision_statement">
+        <div class="det">Our Product: An intelligent interactive search engine that scans a variety of sources to find the best personalized  answer to the users question, and delivers it with a wide range of customizability. </div>
+      </aside>
+      
+    </section>
+      
+  </body>
+</html>
+  
+
+

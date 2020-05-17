@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    background-color: HSLA(197,100%,84%,1.00);
+    padding: 1rem;
+  }
+  
+  aside {
+    border:2px solid HSLA(240, 100%, 90%, 0.5);
+  }
+  
+  section.grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 1rem;
+  }
+  
+  @media screen and (min-width: 1024px) {
+    section.grid {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+  
+  #header {
+    background: gold;
+    padding:5px;
+    text-align: center;
+    font-size: calc(0.2rem + 3vw);
+    
+  }
+  
+  #buttons{
+    background: gold;
+    padding:5px;
+    text-align: center;
+    font-size: calc(0.2rem + 3vw);
+  }
+  
+  #title{
+    background: pink;
+    padding:5px;
+    text-align: center;
+    font-size: calc(0.2rem + 3vw);
+  }
+  
+  #ourgroup {
+    font-size: calc(1rem + 3vw);
+  }
+  
+  #names {
+    background: pink;
+    padding:50px;
+    text-align: center;
+    font-size: calc(0.2rem + 3vw);
+  }
+  
+  #vision_statement{
+    margin-top:0;
+    background: black;
+    padding:50px;
+    text-align: center;
+    font-size: calc(0.2rem + 3vw);
+  }
+  
+  .det {
+    color: skyblue;
+  }
